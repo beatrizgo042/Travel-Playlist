@@ -1,0 +1,6 @@
+.header{
+    display: flex;
+    background-color: beige;
+    align-items: flex-end;
+    flex-direction: column;
+}

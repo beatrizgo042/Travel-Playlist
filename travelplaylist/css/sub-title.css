@@ -1,0 +1,10 @@
+h2{
+    font: italic 400 24px 'Radley', serif;
+    line-height: 2.5rem;
+    text-align: center;
+    width: 21.63rem;
+    height: 2.5rem;
+    float: inline-end;
+    background-color: #D3C5AD;
+    margin-right: 6%;
+}
