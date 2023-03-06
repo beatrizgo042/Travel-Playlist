@@ -10,7 +10,7 @@ Hope you enjoy!
 - <a href="#-project-functionalities">Project functionalities</a>
 - <a href="#-layout">Layout</a>
 - <a href="#-technologies-used">Technologies used</a>
-- <a href="#-author>Author"</a>
+- <a href="#-author">Author</a>
 - <a href="#-next-steps">Next steps</a>
 - <a href="#-see-you-soon">See you soon</a>
 <br></br>
