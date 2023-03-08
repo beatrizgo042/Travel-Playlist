@@ -1,5 +1,5 @@
 # Travel PLaylist
-![travel playlist](./travelplaylist/css/assets/header.png)
+![travel playlist](./travelplaylist/css/assets/header-name.png.png)
 
 Hello, how are you? 👋🏼
 
@@ -44,6 +44,7 @@ Hope you enjoy!
 - [ ] Add a map for a better geographic view
 - [ ] Add cultural fun facts
 - [ ] Add historical context to each place
+- [ ] Make the project responsive
 
 ## See you soon
 

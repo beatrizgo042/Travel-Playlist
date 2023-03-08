@@ -1,0 +1,13 @@
+.paragraph{
+    background-color: rgba(220, 214, 206, 1);
+    border-color: #445418;
+    border-style: solid;
+    border-width: 0px 1px 2px 1px;
+    font-family: 'Radley';
+    font-size: 23px;
+    font-style: normal;
+    font-weight: 400;
+    height: 156px;
+    line-height: 50px;
+    padding: 110px 0px 120px 342px;
+}

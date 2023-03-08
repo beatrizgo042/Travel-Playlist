@@ -1,10 +1,10 @@
-h2{
+.sub-title{
+    background-color: #D3C5AD;
     font: italic 400 24px 'Radley', serif;
+    float: inline-end;
+    height: 2.5rem;
     line-height: 2.5rem;
+    margin-right: 6%;
     text-align: center;
     width: 21.63rem;
-    height: 2.5rem;
-    float: inline-end;
-    background-color: #D3C5AD;
-    margin-right: 6%;
 }
