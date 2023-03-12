@@ -1,5 +1,5 @@
 .sub-title{
-    background-color: #D3C5AD;
+    background-color: var(--color-fifth);
     font: italic 400 24px 'Radley', serif;
     float: inline-end;
     height: 2.5rem;
@@ -7,4 +7,9 @@
     margin-right: 6%;
     text-align: center;
     width: 21.63rem;
+}
+
+.name-content{
+    background-color: none;
+    color: var(--color-first);
 }

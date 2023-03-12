@@ -1,0 +1,7 @@
+.content{
+    align-items: center;
+    background-color: var(--color-third);
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}

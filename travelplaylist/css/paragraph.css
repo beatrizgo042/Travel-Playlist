@@ -1,6 +1,6 @@
 .paragraph{
-    background-color: rgba(220, 214, 206, 1);
-    border-color: #445418;
+    background-color: var(--color-sixth);
+    border-color: var(--color-second);
     border-style: solid;
     border-width: 0px 1px 2px 1px;
     font-family: 'Radley';

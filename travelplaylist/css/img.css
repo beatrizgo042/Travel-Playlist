@@ -1,0 +1,7 @@
+.img{
+    border: 2px solid var(--color-second);
+    border-radius: 1px;
+    height: 275px;
+    margin: 66px 37px;
+    width: 550px;
+}

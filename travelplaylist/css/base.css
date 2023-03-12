@@ -1,3 +1,12 @@
-body{
-    background-color: #9D8064;
+:root{
+    --color-first: #ffffff;
+    --color-second: #445418;
+    --color-third: #9D8064;
+    --color-fourth: #000000;
+    --color-fifth: #D3C5AD;
+    --color-sixth:#DCD6CE;;
 }
+
+body{
+    background-color: var(--color-third);
+} 
