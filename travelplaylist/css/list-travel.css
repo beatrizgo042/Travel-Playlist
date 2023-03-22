@@ -1,0 +1,7 @@
+.list-travel{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    height: 840px;
+    padding-top: 70px;
+}

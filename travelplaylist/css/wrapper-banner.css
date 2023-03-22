@@ -1,0 +1,7 @@
+.wrapper-banner{
+    display: flex;
+    flex-direction: column;
+    width: 680px;
+    align-content: stretch;
+    height: 460px;
+}

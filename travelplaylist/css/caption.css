@@ -1,0 +1,9 @@
+.caption{
+    color: var(--color-first);
+    font-family: 'Radley';
+    font-size: 24px;
+    font-style: italic;
+    font-weight: 400;
+    height: 30px;
+    line-height: 30px;
+}
