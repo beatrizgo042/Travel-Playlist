@@ -1,5 +1,5 @@
 # Travel PLaylist
-![travel playlist](./travelplaylist/css/assets/header-name.png)
+![travel playlist](./css/assets/header-name.png)
 
 Hello, how are you? 👋🏼
 
